@@ -1,0 +1,66 @@
+*{
+    font-family: 'Source Sans Pro' ;
+    font-weight: 50;
+    text-align: center;    
+}
+
+.bpm{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+
+}
+
+header{
+    background-color:  #442a51;
+    color: #f5f4f6;
+    padding: 1px;
+    
+}
+
+main {
+    background-color: #9a7eaa;
+    padding-top: 10px;
+}
+
+#projects{
+    display: inline-flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    align-items: center;
+    color: #f5f4f6;
+}
+
+#social{
+    display: inline-flex;
+    justify-content: space-around;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 50%;
+    padding: 10px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.rdIcon img {
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.trio {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+span{
+    color: #6f547d;
+}
+
+p{
+    color: #f5f4f6;
+}
